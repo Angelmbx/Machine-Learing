@@ -1,0 +1,77 @@
+id,tipo_es,tipo_gl,id_tipo,nombre,parroquia,barrio,calle,numero,lat,lon,codigo_postal,telefono,web
+174,Cines,Cines,18,Multicines Norte,VIGO,VIGO,RUA VIA NORTE,22,42.23395,-8.71201,36204,986227513,http://www.multicinesnorte.es/
+184,Cines,Cines,18,Gran Vía Cines,FREIXEIRO,FREIXEIRO,RUA MIRADOIRO (DO) (CC Gran Vía),2,42.22039,-8.72426,36210,902220922,http://www.granviacines.com
+217,Cines,Cines,18,Yelmo Cines Vigo,VIGO,VIGO,RUA TRAVESIA DE VIGO,204,42.24298,-8.69646,36206,986265440,http://www.yelmocineplex.es
+5105,Cines,Cines,18,Multicines Plaza Elíptica,,,PRAZA FRANCISCO FDEZ. DEL RIEGO,,42.23137,-8.72095,36203,986480553,https://galicine.es/cine.php?id=6
+5115,Cines,Cines,18,Cine Teatro Salesianos Vigo,VIGO,VIGO,RUA VENEZUELA,3,42.23450,-8.72446,36203,619452540,http://www.cinesalesianos.com/
+176,Teatros,Teatros,19,Teatro Arte Livre,VIGO,VIGO,RUA VAZQUEZ VARELA,19,42.23216,-8.71458,36204,986114444,http://www.tal2005.com
+180,Teatros,Teatros,19,Teatro Ensalle,VIGO,VIGO,RUA CHILE,15,42.23135,-8.73038,36202,986485609,https://teatroensalle.com/
+5117,Teatros,Teatros,19,Teatro Afundación,VIGO,VIGO,RUA POLICARPO SANZ,13,42.23772,-8.72339,36202,986447369,https://www.afundacion.org/es/centros/centro/centro_cultural_afundacion_vigo
+5118,Teatros,Teatros,19,Cine Teatro Salesianos,VIGO,VIGO,RUA VENEZUELA,3,42.23450,-8.72446,36203,619452540,http://www.cinesalesianos.com/
+177,Bibliotecas,Bibliotecas,14,Biblioteca Braille de la ONCE,VIGO,VIGO,AVDA GRAN VIA,16,42.23323,-8.71752,36204,986227208,www.once.es
+5362,Bibliotecas,Bibliotecas,14,Biblioteca Municipal Xosé Neira Vilas,LAVADORES,BAGUNDA,AVDA E. MTNEZ GARRIDO- ALCALDE,21,42.22753,-8.70013,36205,986267759,
+187,Bibliotecas,Bibliotecas,14,Biblioteca Central Campus de Vigo,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16929,-8.68357,36310,986813825,http://www.biblioteca.uvigo.es/
+191,Bibliotecas,Bibliotecas,14,Biblioteca Centro Oceanográfico Vigo,OIA,CABO ESTAI,SBIDA RADIO FARO,50,42.18387,-8.81311,36390,986492111,http://www.ieo.es/es/web/vigo/biblioteca
+192,Bibliotecas,Bibliotecas,14,Biblioteca de Filoloxía e Traducción,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16919,-8.67766,36310,986812268,http://www.biblioteca.uvigo.es/
+193,Bibliotecas,Bibliotecas,14,Biblioteca de Ciencias,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16769,-8.68508,36310,986812658,http://www.biblioteca.uvigo.es/
+194,Bibliotecas,Bibliotecas,14,Biblioteca de Ciencias Económicas e Empresariais,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.17017,-8.68082,36310,986812408,http://www.biblioteca.uvigo.es/
+195,Bibliotecas,Bibliotecas,14,Biblioteca CC. Xurídicas e do Traballo,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16885,-8.68124,36310,986812682,http://www.biblioteca.uvigo.es/
+196,Bibliotecas,Bibliotecas,14,Biblioteca de Industriais e Minas,ZAMANS,MARCOSENDE,RUA MAXWELL,0,42.16854,-8.68956,36310,986812208,http://www.biblioteca.uvigo.es/
+197,Bibliotecas,Bibliotecas,14,Biblioteca de Telecomunicación,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16981,-8.68844,36310,986812105,http://www.biblioteca.uvigo.es/
+198,Bibliotecas,Bibliotecas,14,Biblioteca da Escola de Enxeñaría Industrial,VIGO,VIGO,RUA CONDE TORRECEDEIRA,86,42.22722,-8.73461,36208,986813739,http://www.biblioteca.uvigo.es/
+206,Bibliotecas,Bibliotecas,14,Biblioteca Fundación Penzol,VIGO,VIGO,PRAZA PRINCESA,2,42.23836,-8.72568,36202,986226459,http://www.vigocultura.org
+211,Bibliotecas,Bibliotecas,14,Biblioteca Teatro Afundación Vigo,VIGO,VIGO,RUA POLICARPO SANZ,13,42.23772,-8.72339,36202,886116933,
+218,Bibliotecas,Bibliotecas,14,Biblioteca Pública de Vigo Juan Compañel,VIGO,VIGO,RUA JOAQUIN YAÑEZ,6,42.23877,-8.72543,36202,886120440,http://bibliotecas.xunta.gal/vigo/gl
+5401,Bibliotecas,Bibliotecas,14,Biblioteca da Escola Municipal de Artes e Oficios (EMAO),VIGO,VIGO,AVDA GARCIA BARBON,5,42.23761,-8.71959,36201,986228088,http://bibliotecadaemao.blogspot.com/
+4639,Bibliotecas,Bibliotecas,14,Biblioteca Centro de Documentación MARCO,VIGO,VIGO,RUA PRINCIPE,54,42.23606,-8.72110,36202,986113900,www.marcovigo.com
+4640,Bibliotecas,Bibliotecas,14,Biblioteca Cámara de Comercio de Vigo,VIGO,VIGO,RUA REPUBLICA ARGENTINA,18,42.23655,-8.71876,36201,986446343,http://www.camarapvv.com/
+4642,Bibliotecas,Bibliotecas,14,Biblioteca Facultade de Ciencias do Mar e Bioloxía,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16749,-8.68537,36310,986812658,http://uvigo.gal
+4643,Bibliotecas,Bibliotecas,14,Biblioteca Grupo de Estudios sobre a Condición da Muller Alecrin,VIGO,VIGO,AVDA GARCIA BARBON,30,42.23664,-8.71628,36201,986439459,
+4644,Bibliotecas,Bibliotecas,14,Biblioteca do Instituto de Investigacións Mariñas,VIGO,VIGO,RUA EDUARDO CABELLO,6,42.22617,-8.75190,36208,986214454,http://www.iim.csic.es/index.php/biblioteca
+4645,Bibliotecas,Bibliotecas,14,Biblioteca Museo Etnográfico Fundación Liste,FREIXEIRO,FREIXEIRO,RUA PASTORA,22,42.21793,-8.73121,36210,986244698,www.museoliste.org
+5406,Bibliotecas,Bibliotecas,14,Biblioteca de Navia,NAVIA,XUNCAL,RUA TEIXUGUEIRAS (AS),26,42.20948,-8.75692,36212,,
+5113,Bibliotecas,Bibliotecas,14,Biblioteca Francisco Fernández del Riego,VIGO,VIGO,PRAZA PRINCESA,2,42.23836,-8.72568,36202,986226459,
+5114,Bibliotecas,Bibliotecas,14,Gabinete Ramón Piñeiro,VIGO,VIGO,PRAZA PRINCESA,2,42.23836,-8.72568,36202,986226459,
+203,Centros Culturales,Centros Culturais,15,Centro de Artesanía Tradicional (CAT),VIGO,VIGO,SBIDA CASTELO (VIGO VELLO),10,42.23740,-8.72703,36202,986224698,http://hoxe.vigo.org/artesania/
+204,Centros Culturales,Centros Culturais,15,Casa das Artes,VIGO,VIGO,RUA POLICARPO SANZ,15,42.23772,-8.72293,36202,986439525,http://www.vigocultura.org/es/museos
+205,Centros Culturales,Centros Culturais,15,Casa Galega da Cultura,VIGO,VIGO,PRAZA PRINCESA,2,42.23836,-8.72568,36202,986226459,http://www.vigocultura.org/es/museos
+201,Fundaciones,Fundacións,17,Fundación Barrié,VIGO,VIGO,RUA POLICARPO SANZ,31,42.23777,-8.72094,36202,986110220,http://www.fundacionbarrie.org/
+209,Fundaciones,Fundacións,17,Afundación (Obra social Abanca),VIGO,VIGO,RUA POLICARPO SANZ,24,42.23739,-8.72218,36202,986120078,https://www.afundacion.org
+4648,Fundaciones,Fundacións,17,Fundación Laxeiro,VIGO,VIGO,RUA POLICARPO SANZ,15,42.23770,-8.72292,36202,986438475,http://laxeiro.org/
+5402,Fundaciones,Fundacións,17,Fundación Penzol,VIGO,VIGO,PRAZA PRINCESA,2,42.23836,-8.72568,36202,986226459,http://hoxe.vigo.org/movemonos/m_penzol.php?lang=gal#/
+183,Museos,Museos,21,Museo da Arte Deportivo,VIGO,VIGO,AVDA BALAIDOS,0,42.21179,-8.74092,36210,986297101,http://www.fundacioncelta.com
+185,Museos,Museos,21,Museo-Pazo Quiñones de León,CASTRELOS,PAZO,RUA PAZO (CASTRELOS),1,42.21322,-8.72752,36213,986295070,http://www.museodevigo.org
+186,Museos,Museos,21,Museo Etnográfico Liste,FREIXEIRO,FREIXEIRO,RUA PASTORA,22,42.21793,-8.73121,36210,986244698,http://www.museoliste.org
+189,Museos,Museos,21,Museo do Mar de Galicia,ALCABRE,MUIÑO DO VENTO,AVDA ATLANTIDA,160,42.22393,-8.77016,36208,986247750,http://www.museodomar.com
+190,Museos,Museos,21,Museo Verbum (Casa das palabras),NAVIA,PERTEGUEIRAS,AVDA SAMIL,17,42.21294,-8.77387,36212,986240130,http://www.vigocultura.org/
+219,Museos,Museos,21,MARCO (Museo de Arte Contemporánea),VIGO,VIGO,RUA PRINCIPE,54,42.23606,-8.72110,36202,986113900,http://www.marcovigo.com
+4647,Museos,Museos,21,Museo Anfaco Industria Conservera,ZAMANS,MARCOSENDE,CTRA COLEXIO UNIVERSITARIO,16,42.16827,-8.68710,36310,986469301,http://www.museoconserva.es/
+5361,Museos,Museos,21,Pinacoteca Francisco Fernández del Riego,VIGO,VIGO,RUA ABELEIRA MENENDEZ,8,42.23788,-8.72605,36202,986810246,
+4651,Galerías de Arte,Galerías de Arte,12,Amadora,VIGO,VIGO,AVDA GRAN VIA,106,42.22527,-8.72229,36203,986417763,
+4652,Galerías de Arte,Galerías de Arte,12,Bacelos,VIGO,VIGO,RUA PROGRESO,3,42.23593,-8.72523,36202,986222715,http://www.bacelos.com/
+181,Galerías de Arte,Galerías de Arte,12,Androx,VIGO,VIGO,RUA VIA NORTE,22,42.23395,-8.71201,36204,986433848,
+199,Galerías de Arte,Galerías de Arte,12,Galería Monteblanco,VIGO,VIGO,RUA RONDA DE DON BOSCO,33,42.23519,-8.72359,36202,986431122,http://www.monteblanco.es
+200,Galerías de Arte,Galerías de Arte,12,Art Next,VIGO,VIGO,RUA DR. CADAVAL,21,42.23642,-8.72428,36202,,
+207,Galerías de Arte,Galerías de Arte,12,DUA 2,VIGO,VIGO,RUA MARQUES DE VALLADARES,35,42.23835,-8.72146,36201,986113233,http://www.galeriadua2.com
+4653,Galerías de Arte,Galerías de Arte,12,Galería Ad Hoc,VIGO,VIGO,RUA JOAQUIN LORIGA,9,42.23459,-8.72139,36203,986228656,
+4654,Galerías de Arte,Galerías de Arte,12,Galería Metro,VIGO,VIGO,RUA LOPEZ DE NEIRA,3,42.23690,-8.72408,36202,986432550,
+4655,Galerías de Arte,Galerías de Arte,12,Galería Alameda,VIGO,VIGO,PRAZA COMPOSTELA,7,42.23898,-8.72258,36201,986432452,
+4656,Galerías de Arte,Galerías de Arte,12,Galería Triart,VIGO,VIGO,RUA GAMBOA,3,42.23917,-8.72501,36202,986226187,
+4657,Galerías de Arte,Galerías de Arte,12,Galería Termes,VIGO,VIGO,RUA AMOR RUIBAL,13,42.22655,-8.72778,36203,986424015,http://www.galeriatermes.es
+4658,Galerías de Arte,Galerías de Arte,12,Galería Montenegro,VIGO,VIGO,RUA MARQUES DE VALLADARES,37,42.23835,-8.72134,36201,986430744,http://galeriamontenegro.com
+4660,Galerías de Arte,Galerías de Arte,12,Alpide,VIGO,VIGO,RUA LOPEZ DE NEIRA,5,42.23676,-8.72417,36202,986433512,http://artealpide.net
+173,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Cámara de Comercio de Vigo,VIGO,VIGO,RUA REPUBLICA ARGENTINA,18,42.23655,-8.71876,36201,986432533,http://www.camaravigo.com
+188,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Sala de Congresos (Auditorio) da Cidade Universitaria de Vigo,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.17020,-8.68483,36310,986813593,
+212,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditorio Municipal do Concello,VIGO,VIGO,PRAZA REI,1,42.23596,-8.72702,36202,986810246,http://hoxe.vigo.org/conecenos/a_ayuntamiento.php?lang=gal#/
+214,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditorio de Castrelos,CASTRELOS,PEREIRO,AVDA CASTRELOS,0,42.21352,-8.72939,36210,986810221,
+4487,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditorio Martín Códax do Conservatorio Superior de Música,VIGO,VIGO,RUA MANUEL OLIVIE,23,42.22896,-8.72335,36203,986471144,
+4721,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditorio da Fundación Pedro Barrié de la Maza,VIGO,VIGO,RUA POLICARPO SANZ,31,42.23777,-8.72094,36202,986110220,http://www.fbarrie.org
+4722,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,"Salón de actos ""Otero Pedrayo"" - Círculo de Empresarios de Galicia",VIGO,VIGO,AVDA GARCIA BARBON,62,42.23645,-8.71208,36201,986447220,http://www.clubfinvigo.com
+4723,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditorio Zona Franca de Vigo,VIGO,VIGO,TRVA BOUZAS-SERVIC PORTUARIOS,0,42.22919,-8.75384,36208,986269700,http://www.zfv.es/portal/index.html
+4724,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Museo do Mar de Galicia,ALCABRE,MUIÑO DO VENTO,AVDA ATLANTIDA,160,42.22393,-8.77016,36208,986247750,http://www.museodomar.com
+4727,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Salón de Actos do Museo Casa das Palabras - VERBUM,NAVIA,PERTEGUEIRAS,AVDA SAMIL,17,42.21294,-8.77387,36212,986240130,
+4726,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Salón de Actos do MARCO (Museo de Arte Contemporánea),VIGO,VIGO,RUA PRINCIPE,54,42.23606,-8.72110,36202,986113900,www.marcovigo.com
+5359,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditorio do Edificio Municipal da rúa Areal,VIGO,VIGO,RUA AREAL,46,42.23888,-8.71636,36201,986810156,
+5360,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Salón de actos da Casa Galega da Cultura,VIGO,VIGO,PRAZA PRINCESA,2,42.23836,-8.72568,36202,986226459,
+5047,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Auditoro Palacio de Congresos Mar de Vigo,VIGO,VIGO,AVDA BEIRAMAR,59,42.23186,-8.73422,36202,986137940,http://www.auditoriomardevigo.com
+5397,Auditorios y Salones de Actos,Auditorios e Salóns de Actos,13,Teatro Afundación,VIGO,VIGO,RUA POLICARPO SANZ,13,42.23772,-8.72339,36202,986447369,https://www.afundacion.org/es/centros/centro/centro_cultural_afundacion_vigo
